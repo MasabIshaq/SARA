@@ -20,7 +20,7 @@ This tool is made for education purpose only, the author is not responsible for 
 ### Installation
 Quick Install (Recommended)
 ```bash
-git clone https://github.com/termuxhackers-id/SARA
+git clone https://github.com/MasabIshaq/SARA
 cd SARA
 
 # Run auto-installer
@@ -46,7 +46,7 @@ python3 sara.py
 [![asciicast](https://asciinema.org/a/604490.svg)](https://asciinema.org/a/604490)
 
 ### License
-Copyright © 2021-2025 Termux Hackers ID
+Copyright © 2021-2025 Demon Hacker ID
 This project is licensed for educational purposes only.
 
 ---
